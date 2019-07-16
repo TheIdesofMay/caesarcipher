@@ -1,7 +1,7 @@
 # Caesar Cipher
 Simple ceasar cipher with word statistics
 
-> The purpose of this tool was to be a learning experience of some technologies I was eager to try learn - namely machine > > learning and UI design, as well as somewhat of a homage to my younger self who was, at the time, interested in a career in > finance. 
+> In cryptography, a Caesar cipher, also known as Caesar's cipher, the shift cipher, Caesar's code or Caesar shift, is one of the simplest and most widely known encryption techniques. It is a type of substitution cipher in which each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet.
 
 
 ### Prerequisites
